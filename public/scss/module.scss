@@ -44,8 +44,8 @@
 .designation{
 	letter-spacing: 0px;
     font-size: 18px;
-    color: #DFD9D9;
-    opacity: 0.6;
+    color: #6F3636;
+    opacity: 0.8;
     padding: 8px;
 }
 
@@ -54,4 +54,21 @@
     line-height: 1.5em;
     padding-bottom: 10px;
     padding: 8px;
+}
+.anchor{
+    text-align: center;
+}
+footer{
+    p{
+	padding-top: 20px;
+	font-size: 16px;
+}
+}
+footer {
+    a{
+	color: white;
+}
+}
+.social:hover{
+    text-decoration: none;
 }

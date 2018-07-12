@@ -21,8 +21,12 @@ footer p {
   font-size: 16px; }
 
 footer a {
-  text-decoration: underline;
   color: white; }
+
+footer a:hover {
+  padding: 0px;
+  background-color: black;
+  color: green; }
 
 #facebook:hover {
   color: #3B5998; }
